@@ -1,9 +1,9 @@
 maintainers:
-- login: adriangb
-  answers: 42
-  prs: 199
-  avatarUrl: https://avatars.githubusercontent.com/u/1755071?u=612704256e38d6ac9cbed24f10e4b6ac2da74ecb&v=4
-  url: https://github.com/adriangb
+- login: dmontagu
+  answers: 55
+  prs: 316
+  avatarUrl: https://avatars.githubusercontent.com/u/35119617?u=540f30c937a6450812628b9592a1dfe91bbe148e&v=4
+  url: https://github.com/dmontagu
 - login: hramezani
   answers: 23
   prs: 199
@@ -14,26 +14,26 @@ maintainers:
   prs: 408
   avatarUrl: https://avatars.githubusercontent.com/u/4039449?u=42eb3b833047c8c4b4f647a031eaef148c16d93f&v=4
   url: https://github.com/samuelcolvin
-- login: dmontagu
-  answers: 55
-  prs: 316
-  avatarUrl: https://avatars.githubusercontent.com/u/35119617?u=540f30c937a6450812628b9592a1dfe91bbe148e&v=4
-  url: https://github.com/dmontagu
-- login: davidhewitt
-  answers: 2
-  prs: 44
-  avatarUrl: https://avatars.githubusercontent.com/u/1939362?u=b4b48981c3a097daaad16c4c5417aa7a3e5e32d9&v=4
-  url: https://github.com/davidhewitt
 - login: alexmojaki
   answers: 0
   prs: 18
   avatarUrl: https://avatars.githubusercontent.com/u/3627481?u=9bb2e0cf1c5ef3d0609d2e639a135b7b4ca8b463&v=4
   url: https://github.com/alexmojaki
+- login: davidhewitt
+  answers: 2
+  prs: 44
+  avatarUrl: https://avatars.githubusercontent.com/u/1939362?u=b4b48981c3a097daaad16c4c5417aa7a3e5e32d9&v=4
+  url: https://github.com/davidhewitt
 - login: Viicos
-  answers: 201
-  prs: 338
+  answers: 207
+  prs: 352
   avatarUrl: https://avatars.githubusercontent.com/u/65306057?u=fcd677dc1b9bef12aa103613e5ccb3f8ce305af9&v=4
   url: https://github.com/Viicos
+- login: adriangb
+  answers: 42
+  prs: 199
+  avatarUrl: https://avatars.githubusercontent.com/u/1755071?u=612704256e38d6ac9cbed24f10e4b6ac2da74ecb&v=4
+  url: https://github.com/adriangb
 - login: Kludex
   answers: 22
   prs: 112
@@ -60,23 +60,19 @@ experts:
   count: 17
   avatarUrl: https://avatars.githubusercontent.com/u/1765494?u=5b1ab7c582db4b4016fa31affe977d10af108ad4&v=4
   url: https://github.com/harunyasar
+- login: janas-adam
+  count: 13
+  avatarUrl: https://avatars.githubusercontent.com/u/48211033?u=51305680dd325d56d5e38d66a82ad530606e3d25&v=4
+  url: https://github.com/janas-adam
 - login: nymous
   count: 13
   avatarUrl: https://avatars.githubusercontent.com/u/4216559?u=360a36fb602cded27273cbfc0afc296eece90662&v=4
   url: https://github.com/nymous
-- login: janas-adam
-  count: 12
-  avatarUrl: https://avatars.githubusercontent.com/u/48211033?u=51305680dd325d56d5e38d66a82ad530606e3d25&v=4
-  url: https://github.com/janas-adam
 - login: ybressler
   count: null
   avatarUrl: https://avatars.githubusercontent.com/u/40807730?v=4
   url: https://github.com/ybressler
-last_month_active:
-- login: janas-adam
-  count: 3
-  avatarUrl: https://avatars.githubusercontent.com/u/48211033?u=51305680dd325d56d5e38d66a82ad530606e3d25&v=4
-  url: https://github.com/janas-adam
+last_month_active: []
 top_contributors:
 - login: sydney-runkle
   count: 382
@@ -264,7 +260,7 @@ top_reviewers:
   avatarUrl: https://avatars.githubusercontent.com/u/1326112?u=cb5d06e73a9e1998141b1641aa88e443c6717651&v=4
   url: https://github.com/tiangolo
 - login: DouweM
-  count: 32
+  count: 40
   avatarUrl: https://avatars.githubusercontent.com/u/159434?v=4
   url: https://github.com/DouweM
 - login: Bobronium
